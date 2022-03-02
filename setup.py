@@ -42,6 +42,7 @@ def remove(itm, lst):
 libdirs = dirtest([
     "/usr/local/lib", "/sw/lib", "/usr/lib",
     "/usr/lib/i386-linux-gnu", "/usr/lib/x86_64-linux-gnu",
+    "/usr/lib/aarch64-linux-gnu",
     "/usr/lib/X11", "/usr/X11R6/lib",
     "/opt/gnome/lib",
 ])
